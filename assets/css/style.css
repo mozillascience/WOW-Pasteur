@@ -93,6 +93,8 @@ article {
   z-index: 1;
 }
 .logo {
+  display: inline-block;
+  float: inherit;
   position: relative;
   left: -12px;
   width: 175px;
