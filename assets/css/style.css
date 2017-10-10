@@ -461,4 +461,16 @@ table.altrowstable td {
   background-color: #b6ffe6;
 }
 
+table {
+    text-align:center;
+    width:75%;
+}
+th, td  {
+    border-bottom: 1px solid green;
+}
+th {
+    background-color: gainsboro;
+    font-size: 20px;
+    font-weight: bold;
+}
 
