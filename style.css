@@ -242,7 +242,7 @@ nav a:hover {
 }
 nav a:after {
   content: "";
-  background: url(../images/nav-selected-indicator_teal.svg);
+  background: url(../images/nav-selected-indicator_naranja.svg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: contain;
@@ -434,7 +434,7 @@ nav a.selected:after {
   margin: 10px 0 0 0;
 }
 table.altrowstable {
-  font-family: verdana, arial, sans-serif;
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 11px;
   color: #333333;
   border-width: 1px;
@@ -459,18 +459,5 @@ table.altrowstable td {
 }
 .evenrowcolor {
   background-color: #b6ffe6;
-}
-
-table {
-    text-align:center;
-    width:75%;
-}
-th, td  {
-    border-bottom: 1px solid green;
-}
-th {
-    background-color: gainsboro;
-    font-size: 20px;
-    font-weight: bold;
 }
 
