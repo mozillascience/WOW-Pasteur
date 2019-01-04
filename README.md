@@ -1,6 +1,7 @@
 # Welcome to the 2017 Working Open Workshop - Paris
 
 [![Join the chat at https://gitter.im/WOW-Pasteur/Lobby](https://badges.gitter.im/WOW-Pasteur/Lobby.svg)](https://gitter.im/WOW-Pasteur/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmozillascience%2FWOW-Pasteur.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmozillascience%2FWOW-Pasteur?ref=badge_shield)
 
 This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshops held in 2017. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
@@ -26,3 +27,7 @@ Whether you're studying the human genome, black holes, deep-sea ecology, medieva
 At [Mozilla Science Lab](https://science.mozilla.org/) we help researchers (anyone from students to established scientists to citizen scientists) and those who support them (developers, librarians, publishers, etc) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
 
 We provide leadership training (such as this Workshop), learning materials and formats (such as [Mozilla Study Groups](http://mozillascience.github.io/studyGroupHandbook/)), platforms for sharing and showcasing open Science projects (such as [MSL Projects](https://science.mozilla.org/projects)), and support for leaders in open science (through the [Mozilla Fellows for Science](https://science.mozilla.org/programs/fellowships) and the Open Leaders program).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmozillascience%2FWOW-Pasteur.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmozillascience%2FWOW-Pasteur?ref=badge_large)
